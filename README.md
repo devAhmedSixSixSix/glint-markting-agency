@@ -1,5 +1,5 @@
 <h1 align="center">
- Welcome! 👋 Glint markting agency.
+ Welcome! 👋 Glint markting agency. 
 </h1>
 
 <p align="center">
